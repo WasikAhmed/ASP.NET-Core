@@ -1,0 +1,3 @@
+[submodule "PageTurners"]
+	path = PageTurners
+	url = https://github.com/WasikAhmed/PageTurners.git
