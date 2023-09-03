@@ -1,3 +1,6 @@
 [submodule "PageTurners"]
 	path = PageTurners
 	url = https://github.com/WasikAhmed/PageTurners.git
+[submodule "Customer-Complaint-Tracking-System"]
+	path = Customer-Complaint-Tracking-System
+	url = https://github.com/WasikAhmed/Customer-Complaint-Tracking-System.git
